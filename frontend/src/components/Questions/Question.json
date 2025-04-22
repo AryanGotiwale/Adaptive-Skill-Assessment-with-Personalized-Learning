@@ -1,0 +1,31 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the capital of France?",
+        "options": [
+          { "id": "A", "text": "Berlin" },
+          { "id": "B", "text": "Madrid" },
+          { "id": "C", "text": "Paris" },
+          { "id": "D", "text": "Rome" }
+        ],
+        "answer": "C",
+        "difficulty": "easy",
+        "category": "Geography"
+      },
+      {
+        "id": 2,
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+          { "id": "A", "text": "Earth" },
+          { "id": "B", "text": "Mars" },
+          { "id": "C", "text": "Jupiter" },
+          { "id": "D", "text": "Saturn" }
+        ],
+        "answer": "B",
+        "difficulty": "medium",
+        "category": "Astronomy"
+      }
+    ]
+  }
+  

@@ -1,0 +1,44 @@
+.containerTest{
+    margin-top: 2rem /* 32px */;
+    display: flex;
+    justify-content: center;
+    padding:2px;
+    
+}
+.logic{
+    width: 400px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-weight: bolder;
+    border: solid black ;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+   
+    background-color: rgb(21 128 61 );
+ 
+
+}
+.containerTopics{
+    
+    display: flex;
+    font-size: 1rem;    
+}
+.Topics{
+    width: 400px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-weight: bolder;
+    border: solid black ;
+    border-radius: 20px;
+    padding: 15px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+   
+    background-color: rgb(21 128 61 );
+}

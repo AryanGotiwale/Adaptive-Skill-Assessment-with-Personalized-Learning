@@ -1,0 +1,42 @@
+.body{
+    /* margin: 0; */
+     background-image: url("./Assets/img.jpg");
+    
+}
+.container{
+    background-image:url(/src/assets/logoNew.svg);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-left: 350px;
+    width: 500px;
+    height: 600px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+.container input{
+    border: none;
+    
+    width: 300px;
+    height: 30px;
+}
+ h1{
+    font-size: 4rem;
+    padding-bottom: 50px;
+}
+.container label{
+ display: flex;
+}
+.container button{
+    background-color: aqua;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin-left: 98px; */
+    border-radius: 10px;
+
+
+}
